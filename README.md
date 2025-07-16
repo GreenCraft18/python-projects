@@ -10,6 +10,7 @@ Open-source with a MIT license.
 - `round.py` — A program that can round a number up, down, or to the closest `int`. Literally just part of `mathstuff.py`.
 - `sqrt.py` — A program that can find the square root of a number. Part of `mathstuff.py`, but comes with the advantage of calculating π.
 - `symlink.py` — A program that opens up a UI launcher to make a `.symlink`. Pretty cool! Right?
+- `trollers=trash.py` A program that talks about a few Roblox trollers being trash. The **actual** most simple program ever.
 - `terminal.py`— A program that is a custom terminal. Forshadowed over by [eg-power-kit](https://github.com/GreenCraft18/eg-power-kit), a `pwsh` module.
 ## 🚀 Installation
 Clone the repo into any location. For example, `C:\Users\$env:USERNAME\Documents`.
