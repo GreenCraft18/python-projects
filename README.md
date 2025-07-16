@@ -17,7 +17,7 @@ Clone the repo into any location. For example, `C:\Users\$env:USERNAME\Documents
 ``` Bash
 C:\Users\$env:USERNAME\Documents> git clone https://github.com/GreenCraft18/eg-power-kit.git
 ```
-If you don't have git, download the [archived zip](https://github.com/GreenCraft18/python-projects/archive/refs/heads/main.zip) and extract it manually, or install `git` from the official [Git Website.](https://git-scm.com/downloads)  
+If you don't have `git`, download the [archived zip](https://github.com/GreenCraft18/python-projects/archive/refs/heads/main.zip) and extract it manually, or install `git` from the official [Git Website.](https://git-scm.com/downloads)  
 
 After that, feel free to poke around with the files! More will be added overtime.
 
